@@ -15,4 +15,4 @@ double checking pairs of teams that were already assigned in the matrix
 Once the data is processed and saved to a 2D matrix variable, I made sure to print
 the data in a way that is easy to read and check for validity.
 
-I used this approach to try and process the data with an original approach and precise data management going through the content one by one, but I understand that using data management tools and libraries are capable of organizing and managing the data as a whole data structure as well.
+I used this approach to try and process the data with an original approach and precise data management going through the content one by one, but I understand that data management tools and libraries are capable of organizing and managing the data as a whole data structure as well.
