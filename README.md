@@ -2,7 +2,7 @@
 A repository for my application to present my solution to Sports Reference
 
 For my approach, I chose to use python to process the data and structured my solution using
-loops and a 2D array to contain the data. The code itself has comments and explanations for each step but for an overall explanation, I needed to find what the data contained and how I could manipulate it to create a matrix containing what we want from the data.
+loops and a 2D array to contain the data. The code itself has comments and explanations for each step but for an overall explanation, I needed to find what the data contained and how I could manipulate it to create a matrix containing what we want from the data. I've also included an image containing an example test output from the data provided in the application
 
 First, I made a list of teams to use as key references while accessing the data
 
